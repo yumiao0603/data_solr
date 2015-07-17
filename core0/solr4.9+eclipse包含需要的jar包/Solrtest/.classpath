@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/jcl-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/jtds-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/jul-to-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/noggit-0.5.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/slf4j-jdk14-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/solr-cell-4.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/solr-core-4.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/solr-dataimporthandler-4.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/solr-dataimporthandler-extras-4.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/solr-solrj-4.7.0.jar" sourcepath="C:/Users/Administrator/.m2/repository/org/apache/solr/solr-solrj/4.7.0/solr-solrj-4.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-standard-kepler-SR2-win32/solr4.7+myeclipse示例包含需要的jar包/Solrjars/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
